@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="state_on_color">#FFFFFF</color>
+    <color name="state_off_color">#AAAAAA</color>
+    <color name="start_color">#BBBBBB</color>
+    <color name="stop_color">#FF0000</color>
+    <color name="save_color">#BBBBBB</color>
+    <color name="state_text_color">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

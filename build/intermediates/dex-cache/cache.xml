@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kuasmis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/kuasmis/Downloads/FishingMonitor/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-c7a496960edc87ea631f417974eb19749fdd89b8.jar" />
+    </item>
+    <item
+        jar="/Users/kuasmis/Downloads/FishingMonitor/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/kuasmis/Downloads/FishingMonitor/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-8ce7d6f38f19240cd22f335d1298673a93459cb2.jar" />
+    </item>
+    <item
+        jar="/Users/kuasmis/Downloads/FishingMonitor/app/libs/achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="/Users/kuasmis/Downloads/FishingMonitor/app/build/intermediates/pre-dexed/debug/achartengine-1.1.0-907fe645b33f8bd372e327407eae1a2f83d8493e.jar" />
+    </item>
+    <item
+        jar="/Users/kuasmis/Downloads/FishingMonitor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/kuasmis/Downloads/FishingMonitor/app/build/intermediates/pre-dexed/debug/classes-b14508a9094c1f607d7c38b9f6e5c68255db0682.jar" />
+    </item>
+    <item
+        jar="/Users/kuasmis/Downloads/FishingMonitor/app/libs/lib.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="040362343ca79e925230bbe5c1a4a61a78c56bcb">
+        <dex dex="/Users/kuasmis/Downloads/FishingMonitor/app/build/intermediates/pre-dexed/debug/lib-2e04f824251d3bf65177f08e47a44e067416f2e1.jar" />
+    </item>
+    <item
+        jar="/Users/kuasmis/Downloads/FishingMonitor/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/kuasmis/Downloads/FishingMonitor/app/build/intermediates/pre-dexed/debug/classes-0389dd22f5ee84301d37e03f397b5ef0a6f513a1.jar" />
+    </item>
+
+</items>
